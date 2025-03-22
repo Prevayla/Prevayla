@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Prevayla
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Rust and React
-- 💞️ I’m looking to collaborate on frontend development projects
-- 📫 You can reach me on Discord @Prevayla and on X @prevaylaa
+- 👋 Hi, I’m Prevayla
+- 👀 Transitioning to Rust
+- 🌱 JavaScript || React
+- 📫 Discord @Prevayla and on X @prevaylaa
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I play the piano
 
